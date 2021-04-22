@@ -3,7 +3,7 @@ function Header() {
 		<nav className="#4caf50 green">
 			<div className="nav-wrapper ">
 				<a href="#" className="brand-logo">
-					React Movies 12
+					React Movies 1222
 				</a>
 				<ul id="nav-mobile" className="right hide-on-med-and-down">
 					<li>
